@@ -3,3 +3,4 @@
 
 ### <h>그리디 (greedy)</h>
 1. [거스름돈](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/Exchange.java)
+2. [큰 수의 법칙](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/LawOfLargeNumbers.java)
