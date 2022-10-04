@@ -1,5 +1,12 @@
 # Java_Algorithm
+
+### 해당 페이지는 이모티콘으로 커밋합니다.
+- 📝 공부 중
+- 📚 정리 완료
+- 🛠 수정
+
 ## 나동빈 이것이 코딩 테스트다 알고리즘 to Java
 
 ### <h>그리디 (greedy)</h>
 1. [거스름돈](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/Exchange.java)
+2. [큰 수의 법칙](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/LawOfLargeNumbers.java)
