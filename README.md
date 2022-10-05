@@ -11,3 +11,5 @@
 1. [거스름돈](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/Exchange.java)
 2. [큰 수의 법칙](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/LawOfLargeNumbers.java)
 3. [숫자 카드 게임](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/NumberCardGame.java)
+4. [1이 될 때까지]
+(https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/UntilItBecomeOne.java)
