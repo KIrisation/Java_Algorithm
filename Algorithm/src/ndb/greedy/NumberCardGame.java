@@ -25,7 +25,7 @@ public class NumberCardGame {
         }
         int [] compareArr = new int[height];
         for (int i = 0; i < height; i++) {
-            int minNum = arr[0][0];
+            int minNum = 10000;
             for (int j = 0; j < width; j++) {
                 if (arr[i][j] <= minNum) {
                     minNum = arr[i][j];
