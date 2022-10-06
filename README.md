@@ -18,3 +18,4 @@
 ### <h>구현 (implementation)</h>
 1. [상하좌우](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/implementation/UpDownLeftRight.java)
 2. [시각](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/implementation/Time.java)
+3. [왕실의 나이트](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/implementation/RoyalKnight.java)
