@@ -32,4 +32,4 @@
 ## 백준 (https://www.acmicpc.net/)
 
 ### 브루트 포스(Brute Force)
-1. [일곱 난쟁이]
+1. [일곱 난쟁이](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/baekjoon/SevenDwarf.java)
