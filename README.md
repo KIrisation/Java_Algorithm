@@ -7,7 +7,7 @@
 
 ## 나동빈 이것이 코딩 테스트다 알고리즘 to Java
 
-### <h>그리디 (greedy)</h>
+### <h>그리디 (Greedy)</h>
 1. [거스름돈](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/Exchange.java)
 2. [큰 수의 법칙](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/LawOfLargeNumbers.java)
 3. [숫자 카드 게임](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/greedy/NumberCardGame.java)
@@ -15,7 +15,7 @@
 
 ***
 
-### <h>구현 (implementation)</h>
+### <h>구현 (Implementation)</h>
 1. [상하좌우](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/implementation/UpDownLeftRight.java)
 2. [시각](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/implementation/Time.java)
 3. [왕실의 나이트](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/ndb/implementation/RoyalKnight.java)
@@ -26,3 +26,10 @@
 ### <h>DFS/BFS</h>
 1. [DFS](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/ndb/dfs)
 2. [DFS](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/ndb/bfs)
+
+***
+
+## 백준 (https://www.acmicpc.net/)
+
+### 브루트 포스(Brute Force)
+1. [일곱 난쟁이]
