@@ -33,3 +33,4 @@
 
 ### 브루트 포스(Brute Force)
 1. [일곱 난쟁이](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/baekjoon/SevenDwarf.java)
+2. [사탕 게임](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/baekjoon/CandyGame.java)
