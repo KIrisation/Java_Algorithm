@@ -41,7 +41,7 @@
 ## programmers (https://school.programmers.co.kr/)
 Lv. 0
 1. [Day 1 사칙연산](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
-2. [Day 2 사칙연산, 조건문, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9]
+2. [Day 2 사칙연산, 조건문, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
 3. [Day 3 사칙연산, 배열, 수학](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
 4. [Day 4 수학, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
 5. [Day 5 수학, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
