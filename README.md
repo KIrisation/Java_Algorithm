@@ -35,3 +35,18 @@
 1. [일곱 난쟁이](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/baekjoon/SevenDwarf.java)
 2. [사탕 게임](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/baekjoon/CandyGame.java)
 3. [날짜 계산](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/baekjoon/bruteforce/DateCalculation.java)
+
+***
+
+## programmers (https://school.programmers.co.kr/)
+### Lv. 0
+- [Day 1 사칙연산](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 2 사칙연산, 조건문, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 3 사칙연산, 배열, 수학](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 4 수학, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 5 수학, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 6 문자열, 반복문, 출력, 배열, 조건문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 7 문자열, 조건문, 수학, 반복문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 8 배열, 구현, 수학](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 9 수학, 문자열, 해시, 완전탐색, 조건문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
+- [Day 10 조건문, 배열, 수학, 시뮬레이션](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day10)
