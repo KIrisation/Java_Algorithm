@@ -27,3 +27,13 @@
     11
   - If this string is empty or count is zero then the empty string is returned.
   - 빈 문자열 값이나 count 메소드의 파라미터가 0 이들어오면 빈 문자열을 리턴한다.
+
+### CreateMaximum
+
+- int 배열(int[]) 을 Integer List 로 바꾸기
+- 반복문으로 넣기는 생략
+- <B><U>Stream 이용</U></B>
+```java
+  int[] arr = {1,2,3};
+  List<Integer> list = Arrays.stream(arr).boxed().collect(Collect.toList());
+```
