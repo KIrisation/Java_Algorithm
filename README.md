@@ -52,3 +52,8 @@
 - [Day 10: 조건문, 배열, 수학, 시뮬레이션](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day10)
 - [Day 11: 수학, 반복문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day11)
 - [Day 12: 문자열, 정렬, 사칙연산, 수학](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day12)
+- [Day 13: 문자열, 배열, 사칙연산, 수학, 조건문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day13)
+  - 1. (컨트롤 제트)[https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day13/CtrlZ)
+  - 2. (배열 원소의 길이)[https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day13/LengthArrayElements)
+  - 3. (중복된 문자 제거)[https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day13/RemoveDuplicateCharacters)
+  - 4. (삼각형의 완성 조건v1)[https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day13/CompletionConditionsOfTriangle]
