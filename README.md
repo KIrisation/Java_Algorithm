@@ -55,4 +55,4 @@
 - [Day 13: 문자열, 배열, 사칙연산, 수학, 조건문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day13)
 - [Day 14: 조건문, 반복문, 시뮬레이션, 문자열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day14)
 - [Day 15: 문자열, 해시, 배열, 수학](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day15)
-- [Day 15: 문자열, 수학, 배열, 조건문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day16)
+- [Day 16: 문자열, 수학, 배열, 조건문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day16)
