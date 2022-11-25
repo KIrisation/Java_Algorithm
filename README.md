@@ -59,4 +59,5 @@
 - [Day 17: 문자열, 수학, 조건문, 배열, 사칙연산](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day17)
 - [Day 18: 문자열, 수학, 조건문, 정렬](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day18)
 - [Day 19: 문자열, 배열, 조건문](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day19)
-- [Day 20: 수학, 시뮬레이션, 문자열, 사칙연산](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day20)
+- [Day 21: 문자열, 사칙연산, 시뮬레이션, 2차원배열, 수학, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day21)
+- [Day 22: dp, 수학, 조건문, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day22)
