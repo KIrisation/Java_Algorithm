@@ -66,8 +66,8 @@
 - [Day 25: 시뮬레이션, 조건문, 수학](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day25)
 
 ### Lv. 1
-- [K 번째수_정렬](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv1/KthNumber)
+- [K 번째수_정렬](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv1/KthNumber.java)
 
 ### Lv. 2
-- [가장 큰 수_정렬](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv2/BigestNumber)
-- [H-Index_정렬](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv2/HIndex)
+- [가장 큰 수_정렬](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv2/BigestNumber.java)
+- [H-Index_정렬](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv2/HIndex.java)
