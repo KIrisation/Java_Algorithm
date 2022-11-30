@@ -29,7 +29,7 @@
 
 ***
 
-## 백준 (https://www.acmicpc.net/)
+## [백준](https://www.acmicpc.net/)
 
 ### 브루트 포스(Brute Force)
 1. [일곱 난쟁이](https://github.com/bunsung92/Java_Algorithm/blob/main/Algorithm/src/baekjoon/SevenDwarf.java)
@@ -38,7 +38,7 @@
 
 ***
 
-## programmers (https://school.programmers.co.kr/)
+## [programmers](https://school.programmers.co.kr/)
 ### Lv. 0
 - [Day 1: 사칙연산](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
 - [Day 2: 사칙연산, 조건문, 배열](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day1_9)
@@ -66,5 +66,5 @@
 - [Day 25: 시뮬레이션, 조건문, 수학](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day25)
 
 
-### (Lv1)[https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv1]
-### (Lv2)[https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv2]
+### [Lv1](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv1)
+### [Lv2](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv2)
