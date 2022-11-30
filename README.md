@@ -66,5 +66,5 @@
 - [Day 25: 시뮬레이션, 조건문, 수학](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv0/day25)
 
 
-### [Lv1](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv1)
-### [Lv2](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv2)
+### [Lv. 1](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv1)
+### [Lv. 2](https://github.com/bunsung92/Java_Algorithm/tree/main/Algorithm/src/programmers/lv2)
