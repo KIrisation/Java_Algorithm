@@ -18,6 +18,7 @@ import java.util.Map;
 
 /*
     고려 해야할 점
+
     1. 처음 발견된 글자를 저장 할 공간이 필요하다.
         - 무엇을 저장하나?
         - 해당 위치의 인덱스에 -1을 집어넣을 배열이 필요하다.
@@ -33,6 +34,7 @@ public class NearestIdenticalLetter {
     public int[] solution(String s) {
         int[] answer = new int[s.length()];
         Map<Character, Integer> map = new HashMap<>();
+
         for (int i = 0; i < s.length(); i++) {
             if (!map.containsKey(s.charAt(i))) {
                 answer[i] = -1;
