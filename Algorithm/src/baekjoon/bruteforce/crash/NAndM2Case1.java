@@ -7,9 +7,9 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /**
- * 백준 15649번: N과 M (1)
+ * 백준 15650번: N과 M (2)
  */
-public class NAndM1 {
+public class NAndM2Case1 {
 
     static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();
@@ -22,25 +22,27 @@ public class NAndM1 {
         M = nextInt();
 
         visited = new boolean[N + 1];
+
         Arrays.fill(visited, false);
 
         nums = new int[N + 1];
 
-        DFS(0);
+        BFS(0, 1);
+
         System.out.println(sb);
     }
 
-    public static void DFS(int cnt) { // 현재 cnt개 까지 수를 택했음.
-        if (cnt == M) { // 끝까지 탐색했다면 출력
+    private static void BFS(int cnt, int start) {
+        if (cnt == M) {
             output();
             return;
         }
 
-        for (int i = 1; i <= N; i++) {
+        for (int i = start; i <= N; i++) {
             if (!visited[i]) {
                 nums[cnt] = i;
                 visited[i] = true;
-                DFS(cnt + 1);
+                BFS(cnt + 1, i + 1);
                 visited[i] = false;
             }
         }
@@ -50,6 +52,7 @@ public class NAndM1 {
         for (int i = 0; i < M; i++) {
             sb.append(nums[i]).append(" ");
         }
+
         sb.append("\n");
     }
 

@@ -3,13 +3,9 @@ package baekjoon.bruteforce.crash;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
-/**
- * 백준 15649번: N과 M (1)
- */
-public class NAndM1 {
+public class NAndM2Case2 {
 
     static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();
@@ -21,35 +17,33 @@ public class NAndM1 {
         N = nextInt();
         M = nextInt();
 
-        visited = new boolean[N + 1];
-        Arrays.fill(visited, false);
+        nums = new int[N];
+        recursion(1, 1);
 
-        nums = new int[N + 1];
-
-        DFS(0);
         System.out.println(sb);
     }
 
-    public static void DFS(int cnt) { // 현재 cnt개 까지 수를 택했음.
-        if (cnt == M) { // 끝까지 탐색했다면 출력
+    private static void recursion(int idx, int selected) {
+        if (selected == M) {
             output();
             return;
         }
 
-        for (int i = 1; i <= N; i++) {
-            if (!visited[i]) {
-                nums[cnt] = i;
-                visited[i] = true;
-                DFS(cnt + 1);
-                visited[i] = false;
-            }
+        if (idx > N) {
+            return;
         }
+
+        nums[selected] = idx;
+        recursion(idx + 1, selected + 1);
+        nums[selected] = 0;
+        recursion(idx + 1, selected);
     }
 
     private static void output() {
         for (int i = 0; i < M; i++) {
             sb.append(nums[i]).append(" ");
         }
+
         sb.append("\n");
     }
 
