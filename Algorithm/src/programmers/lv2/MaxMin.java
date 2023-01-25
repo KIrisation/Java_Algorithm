@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * 프로그래머스 lv.2 최댓값과 최솟값
+ * 프로그래머스 lv.2 최댓값과 최솟값f
  */
 public class MaxMin {
 
