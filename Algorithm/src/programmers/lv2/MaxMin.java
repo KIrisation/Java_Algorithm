@@ -10,10 +10,10 @@ import java.util.List;
 public class MaxMin {
 
     public static void main(String[] args) {
-
+        solution("1 1");
     }
 
-    public String solution(String s) {
+    public static String solution(String s) {
         String answer = "";
         List<Integer> arr = new ArrayList<>();
         String[] str = s.split(" ");
