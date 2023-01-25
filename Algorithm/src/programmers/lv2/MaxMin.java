@@ -18,7 +18,7 @@ public class MaxMin {
         List<Integer> arr = new ArrayList<>();
         String[] str = s.split(" ");
 
-        for(int i=0; i<str.length; i++) {
+        for (int i = 0; i < str.length; i++) {
             arr.add(Integer.parseInt(str[i]));
         }
 
