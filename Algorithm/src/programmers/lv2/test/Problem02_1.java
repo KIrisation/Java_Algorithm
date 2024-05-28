@@ -5,7 +5,7 @@ package programmers.lv2.test;
  * 문제: 삼각 달팽이
  * 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/68645
  * 문제 풀이: https://github.com/Irisation23/Java_Algorithm/issues/88
- * 특이 사항: Problem02 코드는 가독성이 낮아 가독성을 개선하고 객체 지향적 코드 작성
+ * 특이 사항: Problem02 코드는 가독성이 낮아 가독성을 개선함.
  *
  */
 public class Problem02_1 {
