@@ -21,11 +21,15 @@ public class 병합정렬 {
             arr[i] = nextInt();
         }
 
-        merge(arr, 0, N - 1);
-
-        for (int i : mergedArray) {
-            System.out.print(i + " ");
+        for(int i = 0; i < N; i++) {
+            System.out.println(arr[i]);
         }
+//
+//        merge(arr, 0, N - 1);
+//
+//        for (int i : mergedArray) {
+//            System.out.print(i + " ");
+//        }
     }
 
     static String next() {
