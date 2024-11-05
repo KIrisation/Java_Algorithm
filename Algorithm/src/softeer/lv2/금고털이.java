@@ -1,4 +1,4 @@
-package softeer;
+package softeer.lv2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
